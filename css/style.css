@@ -1,0 +1,39 @@
+html {
+  text-align: center;
+  text-decoration: none;
+}
+body{
+	 display: inline;
+    margin: 0px auto;
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    text-align: center;
+    background: #B4B1B1;
+}
+ A {
+    text-decoration: none; /* Убирает подчеркивание для ссылок */
+   } 
+.block-response{
+	  display: inline-block;
+    vertical-align: middle;
+	color: #E20524;
+	background: #FFFFFF;
+	height: auto;
+	width: 50%;
+	text-align: center;
+	margin-top:  5px;
+	margin-bottom: 5px;
+	font-size: 32px;
+	border-color: #141313; /* Цвет границы */ 
+    border-style: solid;	
+
+}
+.block-response:hover{
+	background: #0404D8;
+
+}
+#content{
+	background: ;
+}
