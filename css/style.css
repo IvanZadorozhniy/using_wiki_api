@@ -19,12 +19,14 @@ body{
 	  display: inline-block;
     vertical-align: middle;
 	color: #E20524;
-	background: #FFFFFF;
+	background: #333333;
 	height: auto;
-	width: 50% auto;
+	width: 40%;
 	text-align: center;
 	margin-top:  5px;
 	margin-bottom: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
 	font-size: 32px;
 	border-color: #141313; /* Цвет границы */ 
     border-style: solid;	
@@ -35,7 +37,7 @@ body{
 
 }
 #content{
-	background: ;
+	
 }
 
 .input-wrapper {
